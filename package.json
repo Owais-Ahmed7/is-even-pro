@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "owais",
+    "is even prop",
+    "react",
+    "package"
+  ],
   "author": "Owais Ahmad",
   "license": "ISC"
 }
