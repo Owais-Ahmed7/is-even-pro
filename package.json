@@ -1,7 +1,7 @@
 {
   "name": "is-even-pro",
   "version": "1.0.2",
-  "description": "",
+  "description": "Javascript package for checking if the number is even.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
